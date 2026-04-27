@@ -4,7 +4,9 @@ A clean, lightweight static checklist tool that helps business owners identify w
 
 The checklist helps review repetitive workflows, customer support, lead intake, document processing, email and communication, reporting, knowledge management, CRM and business systems, task routing, security, integrations, and AI governance.
 
-Live Demo: Coming soon
+Live Demo: https://morphius999.github.io/prologica-ai-business-automation-checklist/
+
+This free checklist was created by Pro Logica to help business owners identify where AI automation may improve real business workflows.
 
 Built by Pro Logica: https://www.prologica.ai
 
